@@ -1,0 +1,6 @@
+{
+  "url" : "wss://ws-feed.pro.coinbase.com/",
+  "products" : ["LTC-USD"],
+  "type": "subscribe",
+  "channels": [{ "name": "full"}]
+}

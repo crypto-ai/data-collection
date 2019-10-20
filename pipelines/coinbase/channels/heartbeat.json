@@ -1,0 +1,6 @@
+{
+  "url" : "wss://ws-feed.pro.coinbase.com/",
+  "products" : ["BTC-USD", "BTC-EUR", "ETH-USD", "ETH-EUR", "LTC-USD", "LTC-EUR"],
+  "type": "subscribe",
+  "channels": [{ "name": "heartbeat"}]
+}

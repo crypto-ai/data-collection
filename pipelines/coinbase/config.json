@@ -1,0 +1,13 @@
+{
+  "heartbeat" : {
+    "client_module" : "heartbeat",
+    "config" : "heartbeat.json",
+    "database"
+  },
+  "status" : {
+
+  },
+  "full" : {
+
+  }
+}
